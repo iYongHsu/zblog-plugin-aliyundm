@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin version="php">
+<id>aliyunDM</id>
+<name>阿里云邮件推送新评论提醒</name>
+<url>http://blog.fanlibei.com/post/14.html</url>
+<note>使用阿里云邮件推送新评论提醒</note>
+<description>本插件使用阿里云邮件推送新评论提醒，需要已经开通阿里云邮件推送，并且已经有AccessKey和对应的AccessKeySecret</description>
+<path>main.php</path>
+<include>include.php</include>
+<level>1</level>
+<author>
+  <name>倚竹聽雨</name>
+  <email>337821840@qq.com</email>
+  <url>https://blog.fanlibei.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>150101</adapted>
+<version>1.0</version>
+<pubdate>2018-01-03</pubdate>
+<modified>2018-01-04</modified>
+<price>0</price>
+<phpver>5.3</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</plugin>
